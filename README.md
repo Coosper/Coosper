@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Kacper Marszelewski</h1>
-<h3 align="center">A full-time student at the South-East Technological University.</h3>
+<h3 align="center">I am currently studying Information Technology at the South-East Technological University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coosper&label=Profile%20views&color=0e75b6&style=flat" alt="coosper" /> </p>
 

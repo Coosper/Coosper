@@ -7,9 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=coosper" alt="GitHub Stats" />
 </p>
 
-- **🔭 Current Project:** [Coosper's Paradise](coosper.github.io)
-- **🌱 Learning:** HTML, CSS, SQL and Java
-
 <h3>Contact Me</h3>
 
 - 📫 **Email:** <a href="mailto:kacpermarszel@gmail.com">kacpermarszel@gmail.com</a>
